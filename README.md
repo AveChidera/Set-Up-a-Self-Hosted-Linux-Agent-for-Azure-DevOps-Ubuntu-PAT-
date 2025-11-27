@@ -59,7 +59,3 @@ Run basic shell commands (e.g., `uname -a`, `whoami`, `df -h`) to verify that th
 * Secure connection established using PAT authentication
 
 ---
-
-
-* One challenge you faced while configuring the agent and how you resolved it
-* How you would scale this setup to multiple self-hosted agents in production for different application for security. 
